@@ -1,0 +1,12 @@
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.exe.config
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.exe
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.pdb
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.csprojResolveAssemblyReference.cache
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.exe
+G:\Programming\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.pdb
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.exe.config
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.exe
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.pdb
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.exe
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\bin\Debug\MathQuizECEric.pdb
+F:\Programming\CSharp\ForClass\TrueFinal\MathQuizECEric\MathQuizECEric\obj\Debug\MathQuizECEric.csprojResolveAssemblyReference.cache
